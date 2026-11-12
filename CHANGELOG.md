@@ -5,6 +5,7 @@ Home Is Where the Smart Is releases use `v0.MINOR.PATCH` until the first complet
 ## Unreleased
 
 ### Fixed
+- CISA retired Secure Our World and archived its pages. Sources now link CISA's Cybersecurity Awareness Month page, which carries the same four core steps.
 - LICENSE names the same code folders as NOTICE and LICENSE-CODE: tools/ and .github/.
 
 ## v0.1.1 - 2026-11-12
