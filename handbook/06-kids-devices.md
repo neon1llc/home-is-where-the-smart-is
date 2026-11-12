@@ -3,7 +3,7 @@ title: "6. Kids' devices"
 description: "A plan for children's tablets and first phones: family accounts, age-appropriate controls, and the conversations that matter more than the settings."
 ---
 
-Settings help, but the conversation does most of the work. A child who knows they can tell you about something weird online, without losing their phone, is safer than one behind the strictest filter.
+Settings help, and the conversation matters as much. A child who knows they can tell you about something weird online, without losing their phone, is more likely to tell you early.
 
 ## Set up through a family account
 
@@ -30,7 +30,7 @@ This gives you purchase approval, age ratings, screen time limits, and location 
 - **Nobody online who asks for secrets or photos is a friend.** If anyone does, tell a parent, and you won't be in trouble.
 - **Never share sign-in codes or passwords**, even with friends. Account theft is common in gaming.
 - **Money scams aimed at kids**: free in-game currency, "skins," and gift cards.
-- **Sextortion**: if anyone threatens to share pictures, don't pay, stop replying, keep the messages, and tell a parent. Take It Down (takeitdown.ncmec.org) can help remove images of minors.
+- **Sextortion**: if anyone threatens to share pictures, block them, keep the messages, and tell a parent before doing anything else. Paying rarely stops it. Take It Down (takeitdown.ncmec.org) can help remove images of minors.
 
 Keep phones charging outside bedrooms overnight, at least for younger kids. It helps sleep more than any app.
 
@@ -42,3 +42,10 @@ Ready, Secure, Go has the detail: [Have the family tech talk, and keep having it
 - [ ] Age-appropriate controls on for every device and console.
 - [ ] Two-step sign-in on any account old enough to have it.
 - [ ] The "you can always tell me" conversation, and a date to have it again.
+
+## Sources
+
+- [Help kids protect their devices](https://consumer.ftc.gov/consumer-alerts/2025/11/help-kids-protect-their-devices), from the FTC: device basics to teach children.
+- [Sextortion](https://www.missingkids.org/sextortion), from the National Center for Missing & Exploited Children: get help before paying, keep the messages, block, and report.
+- [Take It Down](https://takeitdown.ncmec.org/), from NCMEC: help removing nude or explicit images of minors from participating platforms.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

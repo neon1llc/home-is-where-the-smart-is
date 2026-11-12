@@ -3,14 +3,14 @@ title: "12. When something goes wrong"
 description: "The first steps for the common household emergencies: a hacked email, a lost phone, a scam, a data breach notice, or a child in trouble online."
 ---
 
-Stay calm and move in order. Most problems are fixable, especially when they're caught early.
+Move in order. Most of these can be fixed, and early action makes it easier.
 
 ## A hacked email or social account
 
 1. From a different, trusted device, try to sign in and change the password.
 2. If you can't, use the provider's account recovery right away.
 3. Turn on two-step sign-in, and sign out all other sessions.
-4. Check forwarding rules, recovery details, and connected apps; attackers change these to keep access.
+4. Check forwarding rules, recovery details, and connected apps. Attackers change these to keep access.
 5. Warn contacts not to trust recent messages from the account.
 
 Full playbook: [my email or social media account was hacked](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/hacked-email.md).
@@ -29,7 +29,7 @@ Full playbook: [my phone or laptop is lost or stolen](https://github.com/neon1ll
 1. Call the bank or card company right away, on the number on the card.
 2. Change any password that was shared, and turn on two-step sign-in.
 3. Report it at **ReportFraud.ftc.gov**, and see the [who-to-call card in Phish Out of Water](https://github.com/neon1llc/phish-out-of-water/blob/main/handouts/who-to-call.md).
-4. Be kind. It happens to careful people every day.
+4. Keep it calm and blame-free, so the next one gets reported quickly too.
 
 Full playbook: [I think I got scammed](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/scam-victim.md).
 
@@ -41,10 +41,17 @@ Full playbook: [I got a data breach notice](https://github.com/neon1llc/ready-se
 
 ## A child is in trouble online
 
-Stay calm and thank them for telling you. Keep the evidence, don't pay or reply to threats, and report it to the platform. For threats involving images of a minor, report to the NCMEC CyberTipline and use Take It Down.
+Stay calm and thank them for telling you. Keep the evidence, block the account, don't pay without getting help first, and report it to the platform. For threats involving images of a minor, report to the NCMEC CyberTipline and use Take It Down.
 
 Full playbook: [my child is in trouble online](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/kid-in-trouble-online.md).
 
 ## Afterward
 
-Write down what happened and what you changed, on the household tech sheet. Then do the [yearly checkup](../checkups/yearly-checkup.md) early; one problem often points to another.
+Write down what happened and what you changed, on the household tech sheet. Then do the [yearly checkup](../checkups/yearly-checkup.md) early, because one problem often points to another.
+
+## Sources
+
+- [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/), from the FTC: where to report a scam.
+- [Sextortion](https://www.missingkids.org/sextortion), from the National Center for Missing & Exploited Children: get help before paying, keep the messages, block, and report.
+- [Take It Down](https://takeitdown.ncmec.org/), from NCMEC: help removing nude or explicit images of minors from participating platforms.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

@@ -38,3 +38,8 @@ Have the conversation once, with your partner or a trusted family member, and ag
 - [ ] Emergency access set up in the password manager.
 - [ ] The emergency card filled in and stored with your important papers.
 - [ ] A second adult knows where everything is.
+
+## Sources
+
+- [How to add a Legacy Contact for your Apple Account](https://support.apple.com/102631), from Apple.
+- [About Inactive Account Manager](https://support.google.com/accounts/answer/3036546), from Google.

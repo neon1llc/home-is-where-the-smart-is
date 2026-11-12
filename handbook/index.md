@@ -21,6 +21,6 @@ Read in order the first time. Each chapter ends with a short **do this** list, s
 | 12 | [When something goes wrong](12-when-something-goes-wrong.md) | Panic |
 
 > [!TIP]
-> **You're the tech lead, not the tech servant**
+> **Set it up once**
 >
-> The goal of this handbook is fewer calls, not faster fixes. Every chapter favors setting something up once, so it keeps working without you.
+> Each chapter favors setups that keep working without you, so the same problems stop coming back.

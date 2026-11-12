@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for wanting to make this better. Settings menus move and products change, so corrections are the most useful help.
+Settings menus move and products change, so corrections help most.
 
 ## What helps most
 

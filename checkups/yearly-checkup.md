@@ -20,7 +20,7 @@ Work through it with the [household tech sheet](../templates/household-tech-shee
 ## Router and network
 
 - [ ] Router firmware current. If it no longer gets updates, plan a replacement.
-- [ ] Devices on the network match the inventory; remove anything unknown.
+- [ ] Devices on the network match the inventory. Remove anything unknown.
 
 ## Devices
 
@@ -45,3 +45,8 @@ Work through it with the [household tech sheet](../templates/household-tech-shee
 ## Parents
 
 - [ ] Book the yearly [visiting parents](visiting-parents.md) checkup.
+
+## Sources
+
+- [Free credit reports](https://consumer.ftc.gov/articles/free-credit-reports), from the FTC: weekly free reports from each bureau at AnnualCreditReport.com.
+- [What to know about credit freezes and fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts), from the FTC: freezes are free, don't affect your score, and can be placed for children under 16.

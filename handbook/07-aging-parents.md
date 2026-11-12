@@ -24,7 +24,7 @@ The [visiting parents checklist](../checkups/visiting-parents.md) covers everyth
 
 ## Guard against scams
 
-Older adults are targeted more often, and lose more money per scam on average.
+Many of the scams in the FTC's guidance, such as grandparent and tech support scams, are aimed at older adults.
 
 - **Silence unknown callers** or turn on call screening, with family and doctors saved as contacts.
 - **Bank alerts** for large withdrawals, sent to them and, with permission, to you. Many banks also let you name a trusted contact.
@@ -42,6 +42,13 @@ Talk about what happens if they're ill or can't manage their accounts: a legacy 
 
 - [ ] Devices simplified, with accessibility settings they like.
 - [ ] Remote help tested together.
-- [ ] Unknown callers silenced or screened; bank alerts and a credit freeze in place.
+- [ ] Unknown callers silenced or screened.
+- [ ] Bank alerts and a credit freeze in place.
 - [ ] A code word and a "call me first" agreement.
 - [ ] Their accounts on your household tech sheet, or their own.
+
+## Sources
+
+- [Scammers use fake emergencies to steal your money](https://consumer.ftc.gov/articles/scammers-use-fake-emergencies-steal-your-money), from the FTC: grandparent and family emergency scams and how to check.
+- [What to know about credit freezes and fraud alerts](https://consumer.ftc.gov/articles/what-know-about-credit-freezes-and-fraud-alerts), from the FTC: freezes are free, don't affect your score, and can be placed for children under 16.
+- [National Elder Fraud Hotline](https://ovc.ojp.gov/program/elder-fraud-abuse/national-elder-fraud-hotline), from the Justice Department's Office for Victims of Crime: the number and its hours.

@@ -7,7 +7,7 @@ description: "Check how long a device will get updates before you buy it, and wi
 
 The most important spec nobody prints on the box: **how many years of security updates** the device will get.
 
-- **Phones:** Apple supports iPhones for many years. Google Pixel and Samsung Galaxy phones now promise up to seven years of updates on recent flagship models. Cheaper Android phones may get far fewer; check the maker's support page.
+- **Phones:** Google gives Pixel 8 and later phones seven years of OS and security updates, counted from when each model went on sale. Samsung offers seven years on its recent flagship Galaxy phones. Apple supports iPhones for years but doesn't publish a fixed period. Cheaper Android phones may get far fewer, so check the maker's support page.
 - **Computers:** check that the model can run the current version of Windows or macOS, and how long that version is supported.
 - **Smart devices and routers:** check the maker publishes an update period ([chapter 8](08-smart-home.md)).
 - **Secondhand devices:** make sure the previous owner has removed it from their account (Activation Lock on Apple devices, Factory Reset Protection on Android), or you won't be able to use it.
@@ -38,3 +38,9 @@ Ready, Secure, Go has the detail: [Retire devices that can't get updates, and wi
 - [ ] Check the update period before every purchase.
 - [ ] Retire any device that no longer gets updates.
 - [ ] Follow the six steps before any device leaves the house.
+
+## Sources
+
+- [Pixel update schedule](https://support.google.com/pixelphone/answer/4457705), from Google: seven years of OS and security updates for Pixel 8 and later.
+- [Before you buy](https://neon1.tech/knowledge/guides/before-you-buy/), in neon1's Knowledge Center: what to check before buying a device or service.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

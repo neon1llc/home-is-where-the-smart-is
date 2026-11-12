@@ -3,12 +3,12 @@ title: "8. The smart home"
 description: "Cameras, doorbells, speakers, TVs, and plugs: buy ones that get updates, set them up safely, and keep them off your main network."
 ---
 
-Every smart device is a small computer on your network that rarely gets looked at. Most are fine. The ones that cause trouble are cheap, never updated, and still using their factory password.
+Every smart device is a small computer on your network that rarely gets looked at. The ones that cause trouble tend to be cheap, rarely updated, and still on their factory password.
 
 ## Before you buy
 
 - Choose brands that publish how long they'll provide security updates, and support two-step sign-in on the account.
-- Look for the U.S. Cyber Trust Mark on the box where it's offered, and support for Matter, a standard that makes devices work across brands.
+- Look for support for Matter, a standard that makes devices work across brands. The U.S. Cyber Trust Mark label will help once labeled products reach stores, which the FCC was still working toward in late 2026.
 - Skip devices that need an account with an unknown company, or an app with poor reviews about security.
 
 ## Setting up
@@ -37,3 +37,9 @@ Ready, Secure, Go has the detail: [Secure your cameras and smart devices](https:
 - [ ] Default passwords changed, two-step sign-in on app accounts.
 - [ ] Automatic updates on.
 - [ ] Camera access and privacy settings reviewed.
+
+## Sources
+
+- [Securing your internet-connected devices at home](https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home), from the FTC: smart device setup and updates.
+- [How to secure your home security cameras](https://consumer.ftc.gov/articles/how-secure-your-home-security-cameras), from the FTC: camera accounts, passwords, and updates.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

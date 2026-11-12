@@ -3,7 +3,7 @@ title: "5. Devices and updates"
 description: "Automatic updates, screen locks, encryption, and find-my-device on every phone, tablet, and computer in the house."
 ---
 
-Most attacks on home devices use holes that were fixed months ago. Updates close them. The other three basics keep a lost device from becoming a lost identity.
+Many attacks use security holes that already have a fix. Updates apply those fixes. The other three basics keep a lost device from becoming a lost identity.
 
 ## The four basics, on every device
 
@@ -18,7 +18,7 @@ Many updates only finish after a restart. If someone's phone or laptop hasn't be
 
 ## Antivirus
 
-Windows and macOS include good built-in protection (Microsoft Defender and XProtect). Keep it on and updated. Extra paid security suites are optional; be wary of any that came preinstalled with nagging pop-ups.
+Windows and macOS include good built-in protection (Microsoft Defender and XProtect). Keep it on and updated. Extra paid security suites are optional. Be wary of any that came preinstalled with nagging pop-ups.
 
 ## Old devices
 
@@ -32,3 +32,8 @@ Ready, Secure, Go has the detail: [Turn on automatic updates, everywhere](https:
 - [ ] Screen lock and encryption on every phone, tablet, and computer.
 - [ ] Find my device on, and every adult knows how to use it.
 - [ ] Encryption recovery keys saved in the password manager.
+
+## Sources
+
+- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
