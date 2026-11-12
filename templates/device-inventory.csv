@@ -1,0 +1,5 @@
+device,type,owner,make_model,serial_or_id,os_version,updates_end,network,screen_lock,encrypted,find_my,backup,notes
+Mom's phone,Phone,Mom,,,,,Main,Yes,Yes,Yes,iCloud,
+Family laptop,Computer,Shared,,,,,Main,Yes,Yes,Yes,External drive and cloud,
+Living room TV,Smart TV,Shared,,,,,Devices,n/a,n/a,n/a,n/a,
+Front doorbell,Camera,Shared,,,,,Devices,n/a,n/a,n/a,n/a,Two-step sign-in on the app account
