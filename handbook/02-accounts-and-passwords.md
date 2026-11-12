@@ -43,3 +43,8 @@ Use the built-in family features instead of sharing one login: Apple Family Shar
 - [ ] Two-step sign-in on every person's email.
 - [ ] Recovery phone, recovery email, and backup codes checked for every person.
 - [ ] Shared logins moved to family features where possible.
+
+## Sources
+
+- [Secure Our World](https://www.cisa.gov/secure-our-world), from CISA: the four basics of strong passwords, two-step sign-in, updates, and recognizing phishing.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.

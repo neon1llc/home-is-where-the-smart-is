@@ -3,7 +3,7 @@ title: "4. The router and Wi-Fi"
 description: "Take control of the household router: a new admin password, current firmware, strong Wi-Fi security, and a separate network for guests and gadgets."
 ---
 
-Every device in the house reaches the internet through the router. It's the front door, and in most homes nobody has checked the lock since the installer left.
+Every device in the house reaches the internet through the router. It's the front door, and in many homes nobody has signed in to it since it was installed.
 
 ## Find it and sign in
 
@@ -37,3 +37,8 @@ Ready, Secure, Go has the detail: [Set up your router like you mean it](https://
 - [ ] WPA3 or WPA2/WPA3, with a strong Wi-Fi password.
 - [ ] A guest network for visitors and smart devices.
 - [ ] Router details recorded on the household tech sheet.
+
+## Sources
+
+- [How to secure your home Wi-Fi network](https://consumer.ftc.gov/articles/how-secure-your-home-wi-fi-network), from the FTC: router passwords, encryption, and updates.
+- [Ready, Secure, Go](https://github.com/neon1llc/ready-secure-go), from neon1: the practice cards and playbooks linked on this page.
