@@ -28,7 +28,7 @@ Full playbook: [my phone or laptop is lost or stolen](https://github.com/neon1ll
 
 1. Call the bank or card company right away, on the number on the card.
 2. Change any password that was shared, and turn on two-step sign-in.
-3. Report it at **ReportFraud.ftc.gov**, and see the [who-to-call card in Phish Out of Water](https://github.com/neon1llc/phish-out-of-water/blob/main/handouts/who-to-call.md).
+3. Report it at **ReportFraud.ftc.gov**, and see the [who-to-call card in Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit/blob/main/handouts/who-to-call.md).
 4. Keep it calm and blame-free, so the next one gets reported quickly too.
 
 Full playbook: [I think I got scammed](https://github.com/neon1llc/ready-secure-go/blob/main/content/playbooks/scam-victim.md).
