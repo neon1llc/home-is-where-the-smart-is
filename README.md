@@ -1,4 +1,4 @@
-# Home Is Where the Smart Is
+# Household tech handbook
 
 **A household tech handbook for the person who looks after a family's devices and accounts.** Passwords, backups, the router, kids' first phones, helping aging parents, and what to do when something breaks, written for the family's unofficial tech lead.
 
