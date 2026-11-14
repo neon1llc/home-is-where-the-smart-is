@@ -1,6 +1,6 @@
 # Attributions
 
-Home Is Where the Smart Is is written in our own words, from neon1's work with households. It draws on these sources.
+Household Tech Handbook is written in our own words, from neon1's work with households. It draws on these sources.
 
 ## Adapted under compatible licenses
 

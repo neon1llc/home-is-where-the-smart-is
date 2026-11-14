@@ -37,7 +37,7 @@ Go at their pace, explain each change, and ask before you change anything. The g
 - [ ] The pause: hang up, look up, call back.
 - [ ] A family code word for emergency calls.
 - [ ] "Call me first" for any request for money, gift cards, or remote access.
-- [ ] Leave the [Phish Out of Water](https://github.com/neon1llc/phish-out-of-water) one-page takeaway by the phone.
+- [ ] Leave the [Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) one-page takeaway by the phone.
 
 ## Sources
 

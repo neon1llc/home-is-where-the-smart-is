@@ -32,7 +32,7 @@ Many of the scams in the FTC's guidance, such as grandparent and tech support sc
 - **A family code word** for emergency calls, and the habit of hanging up and calling back.
 - **A "call me first" agreement** for any request for money, gift cards, or remote access, framed as two heads being better than one.
 
-[Phish Out of Water](https://github.com/neon1llc/phish-out-of-water) has material for walking them through the common scams, and a one-page takeaway to leave by the phone.
+[Phishing Awareness Kit](https://github.com/neon1llc/phishing-awareness-kit) has material for walking them through the common scams, and a one-page takeaway to leave by the phone.
 
 ## Plan ahead
 
